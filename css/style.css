@@ -1,0 +1,15 @@
+body {
+	width: 600px;
+	margin: 0 auto;
+	padding: 50px 0;
+}
+
+h1 {
+	color: red;
+}
+
+p {
+	color: darkgrey;
+	font-style: italic;
+	display: flex;
+}
